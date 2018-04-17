@@ -1,1 +1,1 @@
-All misc scripts here
+Scripts for automating my tasks
